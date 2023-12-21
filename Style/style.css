@@ -1,0 +1,47 @@
+body
+{ background-color: rgba(182, 210, 255, 0.818);}
+
+.card
+{
+      background-color: rgba(255, 255, 255, 0.94);
+      text-align: center;
+      width: 350px;
+      height: 525px;
+      border-radius: 3%;
+      bottom: 25%;
+      right: 37%;
+      position: absolute;
+      box-shadow: -6px 6px 16px #bebecd;
+}
+
+img
+{
+      width: 300;
+      height: 300px;
+      border-radius: 3%;
+      position:relative;
+      margin-top: 20px;
+}
+
+.title
+{
+      font-size: x-large;
+      
+}
+
+.subtitle
+{
+      font-size:medium;
+      color:rgba(169, 169, 169, 0.893);
+}
+
+.attribution 
+{
+      font-size: 11px; 
+      text-align: center; 
+      bottom: 10%;
+}
+
+.attribution a 
+{ color: hsl(228, 45%, 44%); }
+
